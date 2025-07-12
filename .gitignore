@@ -35,3 +35,6 @@ yarn-error.log*
 next-env.d.ts
 
 /core/discord_demos
+
+**/.env
+**/node_modules
